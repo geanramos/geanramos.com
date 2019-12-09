@@ -1,0 +1,21 @@
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+<meta name="twitter:card" content="player" />
+<meta name="twitter:site" content="@geanramos" />
+<meta name="twitter:title" content="Sample Player Card" />
+<meta name="twitter:description" content="This is a sample video. When you implement, make sure all links are secure." />
+<meta name="twitter:image" content="https://i1.wp.com/i1.ytimg.com/vi/F6jTeLp1E1I/hqdefault.jpg?resize=720%2C400" />
+<meta name="twitter:player" content="https://yoursite.com/container.html" />
+<meta name="twitter:player:width" content="480" />
+<meta name="twitter:player:height" content="480" />
+
+https://i1.wp.com/img.youtube.com/vi/F6jTeLp1E1I/hqdefault.jpg?resize=100%2C40
+
+https://i1.wp.com/i1.ytimg.com/vi/F6jTeLp1E1I/hqdefault.jpg?resize=100%2C40
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@geanramos">
+<meta name="twitter:creator" content="@geanramos">
+<meta name="twitter:title" content="{title}">
+<meta name="twitter:description" content="{descrition}">
+<meta name="twitter:image" content="{img}">
